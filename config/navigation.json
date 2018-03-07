@@ -1,0 +1,16 @@
+{
+  "Menu":  [
+    {
+      "icon" :      "fa fa-home",
+      "label":      "Home",
+      "link":       "/",
+      "view":       "EnterHome"
+    },
+    {
+      "icon" :      "fa fa-user",
+      "label":      "About",
+      "link":       "/about",
+      "view":       "EnterAbout"
+    }
+  ]
+}
